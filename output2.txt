@@ -1,0 +1,7 @@
+So luong vat la: 4
+Ten vat: B, So luong chon:2
+Ten vat: A, So luong chon:1
+Ten vat: D, So luong chon:0
+Ten vat: C, So luong chon:1
+Tong trong luong la: 37
+Tong gia tri la: 82
